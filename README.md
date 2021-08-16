@@ -38,7 +38,7 @@ App creada para el curso de Git y GitHub.
 ### Hola  a todos mi nombre es Jorge
 
 ### Mis estadisticas son:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GHJose20221&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GHJose20221&show_icons=true&theme=dracula)
 
 
 
