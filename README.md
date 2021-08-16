@@ -32,10 +32,14 @@ App creada para el curso de Git y GitHub.
 **Espero no me regañen**
 ### Fecha de creación 2021.
 
+
+
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### Hola  a todos mi nombre es Jorge
 
 ### Mis estadisticas son:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GHJose20221)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GHJose20221&show_icons=true&theme=radical)
+
 
 
 
